@@ -1,0 +1,15 @@
+name: image-inpainting-env
+channels:
+  - pytorch
+  - default
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pytorch=2.1.*
+  - torchvision=0.16.*
+  - torchmetrics
+  - pip:
+    - pillow
+    - opencv-python
+    - ultralytics
