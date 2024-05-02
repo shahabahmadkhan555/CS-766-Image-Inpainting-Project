@@ -2,7 +2,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fLbRK4v8gAwTNMn0_JT8cW2twOn1feD5?usp=sharing) <br>
 The project webpage is available at https://nrussell11.github.io/CS-766-Image-Inpainting-Project/.
-<-- -->
+
 ### Contents
 1. [Project Demo](#project-demo)
 2. [Installation and Setup](#installation-and-setup)
